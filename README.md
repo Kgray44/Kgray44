@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kgray44
 - 👀 I’m interested in electronics and sailing!
 - 🌱 I’m currently learning how to use ESP32 SPIFFS.
-- 💞️ I’m looking to collaborate on anything that combines my two favorite interests!
+- 💞️ I’m looking to collaborate on anything that combines my two favorite interests! (Or *anything* at all!)
 - 📫 How to reach me: kkidsgray@icloud.com
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8DU1W4)
